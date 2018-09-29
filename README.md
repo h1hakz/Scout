@@ -16,6 +16,8 @@ This tool has been optimized to find keywords in unencrypted files with extensio
 
 ## Usage
 
+Please feel free to add your own keywords to look on for in keywordfile.txt before running.
+
 ```
 python scout.py /foldertolookin/ /pathofscout/Scout/keywordfile.txt
 ```
