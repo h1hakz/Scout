@@ -22,7 +22,7 @@ python scout.py /foldertolookin/ /pathofscout/Scout/keywordfile.txt
 
 ## Example
 
-![Scout-Demo](https://github.com/h1hakz/Scout/blob/master/Scout-Demo.gif)
+<img src="https://github.com/h1hakz/Scout/blob/master/Scout-Demo.gif"/>
 
 
 ## License
