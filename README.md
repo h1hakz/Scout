@@ -23,8 +23,7 @@ python scout.py /foldertolookin/ /pathofscout/Scout/keywordfile.txt
 ## Example
 ```
 
-## Contributing
-If you have any suggestions or want to help in collaborating to refine this tool please get in touch with us h1hakz[at]gmail[dot]com 
+https://github.com/h1hakz/Scout/blob/master/Scout-Demo.gif
 
 
 ## License
