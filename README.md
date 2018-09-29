@@ -51,4 +51,4 @@ python scout.py /foldertolookin/ /pathofscout/Scout/keywordfile.txt
 mail us on h1hakz[at]gmail[dot]com or tweet to #h1hakz
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[GNU](https://github.com/h1hakz/Scout/blob/master/LICENSE)
