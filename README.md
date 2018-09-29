@@ -4,11 +4,11 @@ Scout is a tool developed in python for people who want to find a group of keywo
 
 This tool has been optimized to find keywords in unencrypted files with extension. This tool also gives the freedom for users to add their on files extensions to exclude for searching.
 
-Scout can be used on Web application, Mobile and secure source code audit assessment for finding hardcoded credentails or sensitive information in files.
+Scout can be used on Web application, Mobile and secure source code audit assessment for finding hardcoded credentials or sensitive information in files.
 
 # Why use Scout ???
 
-We where trying to solve an issue and thougt why not automate it and so Scout was born.
+We were trying to solve an issue and thought why not automate it and so Scout was born.
 
 Scout is very fast, we optimized and made scout so fast that it can look for the keywords on the files within seconds or maybe less than that and can generate a consolidated report in csv format with all the details you want for your audit.
 
@@ -28,9 +28,9 @@ There is no open source tool like Scout till now which looks for a group of keyw
 
 Please feel free to add your own keywords in keywordfile.txt before running.
 
-There is also a functionality where you can blacklist the file extenstion to avoid looking on those.
+There is also a functionality were you can blacklist the file extenstion to avoid looking on those.
 
-For that simply edit fileBlackList.txt and customize as per your need. This is the most effective way where it will only look on to the extention which is in scope.
+For that simply edit fileBlackList.txt and customize as per your need. This is the most effective way were it will only look on to the extention which is in scope.
 
 ```
 python scout.py /foldertolookin/ /pathofscout/Scout/keywordfile.txt
