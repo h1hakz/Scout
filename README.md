@@ -10,25 +10,17 @@ This tool has been optimized to find keywords in unencrypted files with extensio
 * Linux/Windows/Mac
 * Python 3.3 and up
 
-`$ git clone https://github.com/h1hakz/scout.git`
+`$ git clone https://github.com/h1hakz/Scout.git`
 
-`$ cd LinkFinder`
+`$ cd Scout`
 
 ## Usage
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+```
+python scout.py /foldertolookin/ /pathofscout/Scout/keywordfile.txt
 ```
 
-## Development
-```
-$ virtualenv foobar
-$ . foobar/bin/activate
-$ pip install -e .
+## Example
 ```
 
 ## Contributing
