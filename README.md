@@ -8,7 +8,7 @@ This tool has been optimized to find keywords in unencrypted files with extensio
 
 ### Requirements
 * Linux/Windows/Mac
-* Python 3.3 and up
+* Python 2.7 and up
 
 `$ git clone https://github.com/h1hakz/Scout.git`
 
