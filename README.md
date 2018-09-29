@@ -28,9 +28,9 @@ There is no open source tool like Scout till now which looks for a group of keyw
 
 Please feel free to add your own keywords in keywordfile.txt before running.
 
-There is also a functionality were you can blacklist the file extenstion to avoid looking on those.
+There is also a functionality were you can blacklist the file extension to avoid looking on those.
 
-For that simply edit fileBlackList.txt and customize as per your need. This is the most effective way were it will only look on to the extention which is in scope.
+For that simply edit fileBlackList.txt and customize as per your need. This is the most effective way were it will only look on to the extension which is in scope.
 
 ```
 python scout.py /foldertolookin/ /pathofscout/Scout/keywordfile.txt
