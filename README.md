@@ -6,7 +6,7 @@ This tool has been optimized to find keywords in unencrypted files with extensio
 
 Scout can be used on Web application, Mobile and secure source code audit assessment for finding hardcoded credentials or sensitive information in files.
 
-# Why use Scout ???
+# Why use Scout ?
 
 We were trying to solve an issue and thought why not automate it and so Scout was born.
 
