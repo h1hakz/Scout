@@ -165,4 +165,4 @@ else:
 		# Close CSV file after processing
 		csvFile.close()
 
-	print '\nOpen the result.csv file, to verify the searched result!\n'
+	print '\nOpen the result.csv file, to verify the searched results!\n'
